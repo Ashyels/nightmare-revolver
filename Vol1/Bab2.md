@@ -1,4 +1,4 @@
-## Mahakarya Simbolik 一═デ︻
+## Simbol Mahakarya 一═デ︻
 
 Sebuah tawa berat menggema samar di dalam ruang berdinding kaca—sebuah suaka minimalis dengan lantai marmer yang dipoles hingga memantulkan cahaya seperti cermin. Dinding-dindingnya putih bersih, dihiasi aksen mahoni gelap; sementara di balik jendela panorama yang luas, lampu-lampu kota berkilauan bak rasi bintang gelisah, berpendar redup seolah malam itu sendiri telah lupa bagaimana caranya bermimpi.
 
@@ -95,6 +95,6 @@ Darlen mengangguk perlahan. “Kami akan memastikan mereka bisa.”
 
 Dan dengan itu, janji itu menggantung di udara seperti parfum—sunyi, kuat, tak tergoyahkan. Linda, yang berdiri tak jauh, membiarkan senyum paling tipis terukir di bibirnya. Karena kini ia pun melihat, apa sesungguhnya Dreem telah menjadi.
 
-Bukan sekadar sebuah perangkat—melainkan sebuah simbol.
+Bukan sekadar sebuah perangkat—melainkan sebuah simbol mahakarya.
 
 [Bab 3](https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab3.md)
