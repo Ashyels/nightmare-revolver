@@ -127,4 +127,4 @@ Pandangan Yoshi merendah, dibayangi kegelisahan. Apa pun sebenarnya “sistem”
 
 Ia tidak lahir dari pemahaman—melainkan dari ketakutan.
 
-[![Bab Berikutnya](https://static.thenounproject.com/png/next-button-icon-646306-512.png)](https://github.com/Ashyels/NightmareRevolver/edit/main/Vol1/Bab2.md)
+[![Bab 2]](https://github.com/Ashyels/NightmareRevolver/edit/main/Vol1/Bab2.md)
