@@ -14,7 +14,7 @@ Bersemayam dalam Kegelapan</h2>
 &emsp;Saat menyeberangi jalan yang ramai, tanpa sengaja pandangannya tertarik pada sebuah papan reklame digital menjulang di seberang persimpangan. Cahaya warnanya menyala tajam, menampilkan sebuah perangkat logam yang dikenakan di kepala seorang model.
 
 
-&emsp;DREEM, tertera dalam huruf tebal—seperti bisikan tentang sebuah keselamatan yang samar.
+&emsp;**DREEM**, tertera dalam huruf tebal—seperti bisikan tentang sebuah keselamatan yang samar.
 
 
 &emsp;Ia tak benar-benar memahami apa itu. Dan ia pun tak ingin tahu.
@@ -32,7 +32,7 @@ Bersemayam dalam Kegelapan</h2>
 &emsp;“Bayangkan sebuah dunia di mana mimpi buruk tak lagi ada,” ucap pria itu dengan senyum terlatih, mengangkat perangkat tersebut ke arah kamera. “Dunia di mana setiap malam, Anda dapat memilih mimpi apa yang ingin Anda alami. Itulah yang Dreem tawarkan—sebuah perangkat pembentuk mimpi.”
 
 
-&emsp;Pembentuk… mimpi?
+&emsp;*Pembentuk… mimpi?*
 
 
 &emsp;Alis Lumina mengernyit tipis. Pikirannya beringsut menjauh. Bagaimana mungkin mimpi dapat dijinakkan? Ranah abstrak yang liar dan personal itu? Sesuatu yang begitu intim… begitu privat?
@@ -119,7 +119,7 @@ Bersemayam dalam Kegelapan</h2>
 &emsp;“Syukurlah,” ucap Rachel lega.
 
 
-&emsp;“Apakah Anda yakin tidak ingin saya menemani?”
+&emsp;“Yakin tak ingin... saya temani?”
 
 
 &emsp;Rachel menggeleng pelan. “Aku harus belajar. Aku tak ingin terus bergantung pada orang lain. Tapi terima kasih, Lumina. Cara bicaramu… caramu memperlakukanku… kamu baik. Dan sangat lembut.”
@@ -137,7 +137,7 @@ Bersemayam dalam Kegelapan</h2>
 &emsp;Di dalam hatinya, sebuah pertanyaan sunyi bersemi, melipat dirinya dalam keheningan pagi.
 
 
-&emsp;Bagaimana rasanya… hidup dalam kegelapan yang tak berujung? Tak lagi melihat langit, atau daun-daun yang gugur, atau lengkung senyum seseorang?
+&emsp;*Bagaimana rasanya… hidup dalam kegelapan yang tak berujung? Tak lagi melihat langit, atau daun-daun yang gugur, atau lengkung senyum seseorang?*
 
 
 &emsp;Dunia ini penuh keindahan—kebanyakan terlihat, bukan terucap.
