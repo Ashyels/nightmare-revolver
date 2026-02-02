@@ -1,11 +1,11 @@
 **Bab 3**
-## Sahabat Berkaki Empat
+## Sahabat Berkaki Empat 一═デ︻
 
 &emsp;Pagi itu terendam dalam keheningan.
 
 &emsp;Hanya seberkas cahaya matahari yang merayap masuk melalui celah-celah jendela, mengguratkan garis-garis lembut di dinding kamar yang pucat dan sedikit usang—dinding yang menyimpan kesunyian duka, seolah menjadi wallpaper yang tak pernah dimaksudkan untuk dilepas.
 
-&emsp;Di atas ranjang terbaring seorang gadis, meringkuk tengkurap. Tubuhnya yang ramping terbalut selimut tebal, menutupi dirinya dari telapak kaki hingga lekuk pinggang. Wajahnya menghadap ke dinding, matanya terpaku pada sebuah foto kecil yang digenggam erat di tangannya—potret ibunya, Amina Amberlight.
+&emsp;Di atas ranjang terbaring seorang gadis, meringkuk tengkurap. Tubuhnya yang ramping terbalut selimut tebal, menutupi dirinya dari telapak kaki hingga lekuk pinggang. Wajahnya menghadap ke dinding, matanya terpaku pada sebuah foto kecil yang digenggam erat di tangannya—potret ibunya, **Amina Amberlight**.
 
 &emsp;Perempuan dalam foto itu tersenyum hangat, senyum yang terasa mampu menembus waktu, memeluk sang gadis dengan kasih yang tak pernah bisa dihapus oleh jarak. Sudah tiga tahun sejak ibunya pergi untuk sebuah perjalanan ke luar kota—dan tak pernah kembali. Orang-orang mengatakan itu kecelakaan tragis: sebuah tabrakan, sebuah kehilangan, sebuah akhir.
 
@@ -15,7 +15,7 @@
 
 &emsp;Lalu, sebuah suara pelan memecah kesunyian.
 
-&emsp;Seekor kucing putih berbulu tebal—seputih salju yang baru jatuh—menyelinap masuk melalui pintu yang sedikit terbuka. Langkahnya ringan, nyaris tak bersuara, seakan ia melayang alih-alih berjalan. Di lehernya terpasang kalung biru tua, dihiasi sebuah bandul kecil berwarna emas yang menangkap cahaya pagi dan berkilau lembut. Terukir di sana satu nama: Mishyels.
+&emsp;Seekor kucing putih berbulu tebal—seputih salju yang baru jatuh—menyelinap masuk melalui pintu yang sedikit terbuka. Langkahnya ringan, nyaris tak bersuara, seakan ia melayang alih-alih berjalan. Di lehernya terpasang kalung biru tua, dihiasi sebuah bandul kecil berwarna emas yang menangkap cahaya pagi dan berkilau lembut. Terukir di sana satu nama: **Mishyels**.
 
 &emsp;Tanpa ragu, kucing itu meloncat anggun ke atas ranjang. Ia memanjat punggung sang gadis dan mengeong pelan—seolah berkata, aku tidak akan membiarkanmu sendirian terlalu lama.
 
@@ -45,10 +45,10 @@
 
 &emsp;Dan di ujung meja, di bawah cahaya lembut lampu kecil, terbaring sebuah buku harian hitam sederhana. Sebuah stiker anak kucing putih tersenyum di sampulnya. Di bagian depan, tertulis dengan tulisan kecil yang rapi:
 
-&emsp;Lumina Amberlight.  
+&emsp;**Lumina Amberlight**.  
 &emsp;Nama sang gadis.
 
-✧ ︻デ═一 ✧
+<p align="center">✧ ︻デ═一 ✧</p>
 
 &emsp;Dengan langkah enggan khas pagi hari, Lumina akhirnya turun dari ranjang dan melangkah menuju dapur. Di belakangnya, Mishyels mengikuti—hening dan anggun, tatapannya tak pernah lepas, seakan jarak sejauh satu tarikan napas pun terlalu jauh baginya.
 
@@ -76,7 +76,7 @@
 
 &emsp;Dindingnya dipenuhi senapan dan revolver antik, terpajang bak mural sakral. Sebagian tersimpan di balik kaca, sebagian tergantung terbuka. Ayahnya—meski bukan tentara—memiliki izin resmi untuk menyimpan senjata-senjata itu, dan sebagian besar kenalannya adalah kolektor atau pria-pria yang berkecimpung di dunia serupa.
 
-&emsp;Di pusat ruangan berdiri koleksi paling berharga miliknya—sebuah senapan asal Jerman yang mencolok, berwarna putih, hitam, dan emas. Ia menamainya The White Eagle, dan telah menceritakan sejarahnya kepada Lumina entah sudah berapa kali. Bagi ayahnya, senjata itu adalah keindahan, kejayaan, dan warisan. Bagi Lumina, itu hanyalah kisah tanpa makna.
+&emsp;Di pusat ruangan berdiri koleksi paling berharga miliknya—sebuah senapan asal Jerman yang mencolok, berwarna putih, hitam, dan emas. Ia menamainya **The White Eagle**, dan telah menceritakan sejarahnya kepada Lumina entah sudah berapa kali. Bagi ayahnya, senjata itu adalah keindahan, kejayaan, dan warisan. Bagi Lumina, itu hanyalah kisah tanpa makna.
 
 &emsp;Ia duduk di sana, memoles senapan dengan penuh ketelatenan, matanya dipenuhi pengabdian.
 
