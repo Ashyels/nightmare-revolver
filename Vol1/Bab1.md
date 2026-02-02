@@ -69,6 +69,10 @@
 &emsp;&emsp;Pandangan Yoshi merendah, dibayangi kegelisahan. Apa pun sebenarnya “sistem” ini, satu hal ia ketahui dengan pasti:  
 &emsp;&emsp;Ia tidak lahir dari pemahaman—melainkan dari ketakutan.
 
+***
+---
+___
+
 <p align="center">
   <a style="text-decoration:none;">Bab 1</a>
   <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md">Bab 2</a>
