@@ -51,7 +51,7 @@
 &emsp;&emsp;Ia adalah seseorang yang tertawa bersamanya. Yang ia percayai.  
 &emsp;&emsp;Dan kini… ia adalah subjek uji.
 
-✧ ︻デ═一 ✧
+<p align="center">✧ ︻デ═一 ✧</p>
 
 &emsp;&emsp;Yoshi duduk sendiri di salah satu bangku di sudut halaman yang sunyi, berkas itu masih terbuka di tangannya. Nama “Raviel” menatapnya dari halaman yang mulai menguning—menghantui dengan keakrabannya. Di sekelilingnya, obrolan rekan-rekan yang sedang beristirahat terdengar jauh, seperti dunia lain yang tak tersentuh, tak nyata.  
 &emsp;&emsp;Ia mengembuskan napas.  
