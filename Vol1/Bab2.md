@@ -50,10 +50,10 @@ Pendamping sunyi bagi pikiran yang terlelap.
 
 “Dan proyeksi?” tanya Darlen.
 
-Jari-jari Linda meluncur di permukaan tabletnya.
+Jari-jari Linda meluncur di permukaan tabletnya.  
 “Fase awal: jika seratus unit terjual, pendapatan mencapai lima ratus ribu lischr.”
 
-Tawa pelan lolos dari bibir Darlen. Tidak keras. Tidak penuh kemenangan. Hanya puas.
+Tawa pelan lolos dari bibir Darlen. Tidak keras. Tidak penuh kemenangan. Hanya puas.  
 “Lima ratus ribu…”
 
 Ia menarik napas perlahan, seolah menghirup angka-angka yang dipintal dari emas, lalu tersenyum—lapar, namun terlalu beradab untuk disebut serakah.
@@ -66,22 +66,22 @@ Suara Darlen belum sepenuhnya mereda ketika Liem bersandar sedikit, matanya meny
 
 Ada jeda singkat.
 
-Lalu jawaban Darlen datang—halus, terkendali, tanpa tergesa.
+Lalu jawaban Darlen datang—halus, terkendali, tanpa tergesa.  
 “Tentu. Semua parameter telah terpenuhi. Data yang kembali… menjanjikan.”
 
 Liem menatapnya lekat. “Dan keselamatan?”
 
-Darlen menyatukan kedua tangan di belakang punggung, melangkah setengah lingkaran kecil ke tepi ruangan.
+Darlen menyatukan kedua tangan di belakang punggung, melangkah setengah lingkaran kecil ke tepi ruangan.  
 “Arsitektur Dreem dibangun berlapis-lapis pengaman. Sinkronisasi fisiologis, jangkar memori, durasi terkalibrasi—semuanya diperhitungkan. Simulasi kami lolos dengan hasil sempurna, begitu pula sesi klinis.”
 
-Ia berbalik, menatap Liem dengan kehangatan yang terlatih.
+Ia berbalik, menatap Liem dengan kehangatan yang terlatih.  
 “Kau tak perlu khawatir, Liem. Kami tak melangkah maju kecuali benar-benar aman.”
 
 Ada keyakinan dalam suaranya—berbentuk sempurna seperti kebenaran. Namun di balik kilap itu, tersembunyi jauh di balik ambisi yang berkilau di matanya, terbaring keheningan akan sesuatu yang tak terucap.
 
 Sesuatu yang sebaiknya tetap tak terdokumentasi.
 
-Liem menyilangkan kaki, mengangkat pandangan dengan senyum setengah yang tahu.
+Liem menyilangkan kaki, mengangkat pandangan dengan senyum setengah yang tahu.  
 “Kau bermain dengan mimpi, Darlen. Itu hal yang langka—kebanyakan orang bahkan tak mampu memahaminya, apalagi membentuknya. Tapi kau… kau tahu cara memanipulasinya, bahkan mengubahnya menjadi emas.”
 
 Darlen menjawab hanya dengan senyum terlatih itu—dingin, bercahaya, bak mercusuar di tengah kabut.
@@ -96,10 +96,10 @@ Liem kembali menatap antarmuka Dreem. Dan pada saat itu, perangkat itu tampak bu
 
 “Jika yang kau katakan benar—jika Dreem benar-benar bisa mengembalikan mimpi pada mereka yang bahkan tak mampu tidur…”
 
-Ia menoleh kembali pada Darlen, matanya tajam oleh keyakinan. **  **
+Ia menoleh kembali pada Darlen, matanya tajam oleh keyakinan.   
 “Maka aku tak hanya akan berinvestasi. Aku akan membawa yang lain. Rekan-rekan. Pria-pria dengan anak-anak. Istri. Orang-orang tercinta. Semua orang ingin beristirahat dengan tenang. Semua orang—ingin bermimpi.”
 
-Darlen mengangguk perlahan.
+Darlen mengangguk perlahan.  
 “Kami akan memastikan mereka bisa.”
 
 Dan dengan itu, janji itu menggantung di udara seperti parfum—sunyi, kuat, tak tergoyahkan. Linda, yang berdiri tak jauh, membiarkan senyum paling tipis terukir di bibirnya. Karena kini ia pun melihat, apa sesungguhnya Dreem telah menjadi.
