@@ -71,5 +71,5 @@
 
 <p align="center">
   <a href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md">Bab 2</a>
-[Bab 2]()
+  <a href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md">Bab 2</a>
 </p>
