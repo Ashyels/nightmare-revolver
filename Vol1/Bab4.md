@@ -1,6 +1,6 @@
 <p align="right"><b>Bab 4</b></p>
 <h2 align="right">一═デ︻</br>
-Bersemayam dalam Kegelapan</h2>
+Kegelapan Tanpa Akhir</h2>
 
 
 
