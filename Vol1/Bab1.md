@@ -2,13 +2,20 @@
 **Bab 1**
 ## Simfoni Mekanis 一═デ︻
 
-&emsp;&emsp;Di tengah simfoni mekanis yang tak pernah benar-benar terdiam, sebuah laboratorium raksasa berdenyut mengikuti irama mesin-mesin, desis alat solder, dan ketukan cepat jemari yang menari di atas panel kendali. Cahaya biru pucat keputihan mengalir dari langit-langit tinggi, menembus kabut partikel logam yang melayang di udara—memberi kesan bukan sebagai tempat bagi manusia, melainkan sebuah rahim dingin, tempat keajaiban teknologi yang belum teruji menanti kelahirannya.  
-&emsp;&emsp;Puluhan teknisi berseragam putih bersih bergerak dengan presisi nyaris tanpa suara. Masing-masing tenggelam sepenuhnya dalam tugasnya, hingga tampak lebih seperti perpanjangan dari mesin-mesin di sekeliling mereka daripada individu yang berdiri sendiri. Di balik kaca pelindung helm mereka, mata-mata menyipit penuh konsentrasi, merangkai mimpi menjadi inovasi melalui ketelitian berskala mikroskopis.  
-&emsp;&emsp;Di hadapan sebuah konsol holografik, dua sosok berdiri berdampingan. Tangan mereka mantap melayang di atas meja kerja transparan, tempat sebuah nanochip tunggal terpasang pada papan sirkuit khusus. Sekilas, benda itu tampak tak berbahaya—bahkan nyaris remeh. Namun tersembunyi di dalam rangka halusnya terdapat kemampuan untuk menafsirkan gelombang otak, ritme napas, tempo jantung, hingga pola etereal dari mimpi manusia.  
-&emsp;&emsp;“Menurutmu… apakah ini akan berhasil?” tanya salah satu dari mereka, suaranya rendah dan datar, meski seutas keraguan samar melekat di nadanya. Ia tak mengalihkan pandangan dari layar.  
-&emsp;&emsp;Rekannya hanya mengangguk kecil, disertai senyum tipis yang rapuh—gerak yang lahir bukan dari keyakinan penuh, melainkan dari keinginan untuk percaya.  
-&emsp;&emsp;“Kurasa… akan,” jawabnya lirih, nyaris tak terdengar di atas dengung mesin-mesin.  
+&emsp;&emsp;Di tengah simfoni mekanis yang tak pernah benar-benar terdiam, sebuah laboratorium raksasa berdenyut mengikuti irama mesin-mesin, desis alat solder, dan ketukan cepat jemari yang menari di atas panel kendali. Cahaya biru pucat keputihan mengalir dari langit-langit tinggi, menembus kabut partikel logam yang melayang di udara—memberi kesan bukan sebagai tempat bagi manusia, melainkan sebuah rahim dingin, tempat keajaiban teknologi yang belum teruji menanti kelahirannya.
+
+&emsp;&emsp;Puluhan teknisi berseragam putih bersih bergerak dengan presisi nyaris tanpa suara. Masing-masing tenggelam sepenuhnya dalam tugasnya, hingga tampak lebih seperti perpanjangan dari mesin-mesin di sekeliling mereka daripada individu yang berdiri sendiri. Di balik kaca pelindung helm mereka, mata-mata menyipit penuh konsentrasi, merangkai mimpi menjadi inovasi melalui ketelitian berskala mikroskopis.
+
+&emsp;&emsp;Di hadapan sebuah konsol holografik, dua sosok berdiri berdampingan. Tangan mereka mantap melayang di atas meja kerja transparan, tempat sebuah nanochip tunggal terpasang pada papan sirkuit khusus. Sekilas, benda itu tampak tak berbahaya—bahkan nyaris remeh. Namun tersembunyi di dalam rangka halusnya terdapat kemampuan untuk menafsirkan gelombang otak, ritme napas, tempo jantung, hingga pola etereal dari mimpi manusia.
+
+&emsp;&emsp;“Menurutmu… apakah ini akan berhasil?” tanya salah satu dari mereka, suaranya rendah dan datar, meski seutas keraguan samar melekat di nadanya. Ia tak mengalihkan pandangan dari layar.
+
+&emsp;&emsp;Rekannya hanya mengangguk kecil, disertai senyum tipis yang rapuh—gerak yang lahir bukan dari keyakinan penuh, melainkan dari keinginan untuk percaya.
+
+&emsp;&emsp;“Kurasa… akan,” jawabnya lirih, nyaris tak terdengar di atas dengung mesin-mesin.
+
 &emsp;&emsp;“Kita sedang mengutak-atik sistem paling rapuh dalam tubuh manusia,” lanjut yang pertama, matanya terpaku pada grafik aktivitas saraf yang berkelip. “Risikonya luar biasa besar.”  
+
 &emsp;&emsp;“Aku tahu…” bisik teknisi kedua. Ia terdiam, lalu meraih sebuah dokumen di atas meja—laporan awal tentang kemampuan mekanisme itu dalam oneirokinesis. Daftar efek sampingnya kelam dan tanpa ampun: distorsi ingatan, tekanan neurologis, teror malam berkepanjangan. Ia membaca setiap baris dengan perlahan, alisnya berkerut, napasnya terasa berat di dada.  
 &emsp;&emsp;Dengan langkah tertahan, pria dari Negeri Matahari Terbit berjalan ke ujung laboratorium, tempat seorang bertubuh kekar bersantai di depan layar komputer, menyeruput kopi panas dengan headset menutup telinganya. Musik bergema pelan dari dalamnya, membuat pria itu tampak terputus dari dunia sekitarnya.  
 &emsp;&emsp;“Berkin,” panggil sang teknisi dengan lembut.  
