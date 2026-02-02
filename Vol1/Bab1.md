@@ -2,9 +2,7 @@
 ## Simfoni Mekanis 一═デ︻
 
 
-<p align="justify" style="font-family: Garamond, Arial, Helvetica, sans-serif;">
-&emsp;&emsp;Di tengah simfoni mekanis yang tak pernah benar-benar terdiam, sebuah laboratorium raksasa berdenyut mengikuti irama mesin-mesin, desis alat solder, dan ketukan cepat jemari yang menari di atas panel kendali. Cahaya biru pucat keputihan mengalir dari langit-langit tinggi, menembus kabut partikel logam yang melayang di udara—memberi kesan bukan sebagai tempat bagi manusia, melainkan sebuah rahim dingin, tempat keajaiban teknologi yang belum teruji menanti kelahirannya.
-  
+&emsp;&emsp;Di tengah simfoni mekanis yang tak pernah benar-benar terdiam, sebuah laboratorium raksasa berdenyut mengikuti irama mesin-mesin, desis alat solder, dan ketukan cepat jemari yang menari di atas panel kendali. Cahaya biru pucat keputihan mengalir dari langit-langit tinggi, menembus kabut partikel logam yang melayang di udara—memberi kesan bukan sebagai tempat bagi manusia, melainkan sebuah rahim dingin, tempat keajaiban teknologi yang belum teruji menanti kelahirannya.  
 &emsp;&emsp;Puluhan teknisi berseragam putih bersih bergerak dengan presisi nyaris tanpa suara. Masing-masing tenggelam sepenuhnya dalam tugasnya, hingga tampak lebih seperti perpanjangan dari mesin-mesin di sekeliling mereka daripada individu yang berdiri sendiri. Di balik kaca pelindung helm mereka, mata-mata menyipit penuh konsentrasi, merangkai mimpi menjadi inovasi melalui ketelitian berskala mikroskopis.  
 &emsp;&emsp;Di hadapan sebuah konsol holografik, dua sosok berdiri berdampingan. Tangan mereka mantap melayang di atas meja kerja transparan, tempat sebuah nanochip tunggal terpasang pada papan sirkuit khusus. Sekilas, benda itu tampak tak berbahaya—bahkan nyaris remeh. Namun tersembunyi di dalam rangka halusnya terdapat kemampuan untuk menafsirkan gelombang otak, ritme napas, tempo jantung, hingga pola etereal dari mimpi manusia.  
 &emsp;&emsp;“Menurutmu… apakah ini akan berhasil?” tanya salah satu dari mereka, suaranya rendah dan datar, meski seutas keraguan samar melekat di nadanya. Ia tak mengalihkan pandangan dari layar.  
@@ -51,7 +49,6 @@
 &emsp;&emsp;Karena sebersih apa pun laboratorium itu tampak… Raviel bukan lagi sekadar nama di atas berkas.  
 &emsp;&emsp;Ia adalah seseorang yang tertawa bersamanya. Yang ia percayai.  
 &emsp;&emsp;Dan kini… ia adalah subjek uji.
-</p>
 
 <p align="center">✧ ︻デ═一 ✧</p>
 
