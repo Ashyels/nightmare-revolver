@@ -98,6 +98,7 @@ Dan kini… ia adalah subjek uji.
 Yoshi duduk sendiri di salah satu bangku di sudut halaman yang sunyi, berkas itu masih terbuka di tangannya. Nama “Raviel” menatapnya dari halaman yang mulai menguning—menghantui dengan keakrabannya. Di sekelilingnya, obrolan rekan-rekan yang sedang beristirahat terdengar jauh, seperti dunia lain yang tak tersentuh, tak nyata.
 
 Ia mengembuskan napas.
+
 _Mimpi, ya…_
 
 Tangannya merogoh saku, mengambil ponselnya. Beberapa sentuhan kemudian, layar menyala menampilkan sebuah foto—yang tak pernah sanggup ia hapus. Dirinya dan Raviel, tertawa di bawah matahari musim panas yang telah lama berlalu. Bebas. Tanpa beban.
