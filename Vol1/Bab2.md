@@ -1,4 +1,4 @@
-### Bab 2
+**Bab 2**
 ## Simbol Mahakarya 一═デ︻
 
 Sebuah tawa berat menggema samar di dalam ruang berdinding kaca—sebuah suaka minimalis dengan lantai marmer yang dipoles hingga memantulkan cahaya seperti cermin. Dinding-dindingnya putih bersih, dihiasi aksen mahoni gelap; sementara di balik jendela panorama yang luas, lampu-lampu kota berkilauan bak rasi bintang gelisah, berpendar redup seolah malam itu sendiri telah lupa bagaimana caranya bermimpi.
