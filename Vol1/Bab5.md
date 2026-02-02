@@ -204,7 +204,7 @@ Sekali. Dua kali.
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md">Bab 4</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab4.md">Bab 4</a>
   <a style="text-decoration:none;">Bab 5</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab4.md">Bab 6</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab6.md">Bab 6</a>
 </p>
