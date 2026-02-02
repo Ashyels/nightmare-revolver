@@ -1,4 +1,4 @@
-## Sebuah Mahakarya Simbolik
+## Mahakarya Simbolik 一═デ︻
 
 Sebuah tawa berat menggema samar di dalam ruang berdinding kaca—sebuah suaka minimalis dengan lantai marmer yang dipoles hingga memantulkan cahaya seperti cermin. Dinding-dindingnya putih bersih, dihiasi aksen mahoni gelap; sementara di balik jendela panorama yang luas, lampu-lampu kota berkilauan bak rasi bintang gelisah, berpendar redup seolah malam itu sendiri telah lupa bagaimana caranya bermimpi.
 
@@ -44,17 +44,13 @@ Benda itu tampak seperti modul putih ramping yang memeluk telinga—menggabungka
 
 Sebuah punggung vertikal tipis membentang di sisinya, menyimpan mikro-sensor yang berdenyut oleh sinyal tak kasatmata—menghubungkan pikiran, ingatan, dan presisi buatan dalam harmoni sempurna, ditandai cahaya indikator samar yang membisikkan kesiapan dan statusnya. Meski berukuran ringkas, Dreem memikul janji revolusioner: membuka lapisan terdalam pikiran, menuntun kesadaran melampaui keseharian—sementara beristirahat lembut di sisi telinga.
 
-Ia bukan sekadar perangkat, melainkan ciptaan untuk beristirahat.   
-Penuntun halus bagi mimpi.   
-Pendamping sunyi bagi pikiran yang terlelap.
+Ia bukan sekadar perangkat, melainkan ciptaan untuk beristirahat. Penuntun halus bagi mimpi. Pendamping sunyi bagi pikiran yang terlelap.
 
 “Dan proyeksi?” tanya Darlen.
 
-Jari-jari Linda meluncur di permukaan tabletnya.  
-“Fase awal: jika seratus unit terjual, pendapatan mencapai lima ratus ribu lischr.”
+Jari-jari Linda meluncur di permukaan tabletnya. “Fase awal: jika seratus unit terjual, pendapatan mencapai lima ratus ribu lischr.”
 
-Tawa pelan lolos dari bibir Darlen. Tidak keras. Tidak penuh kemenangan. Hanya puas.  
-“Lima ratus ribu…”
+Tawa pelan lolos dari bibir Darlen. Tidak keras. Tidak penuh kemenangan. Hanya puas. “Lima ratus ribu…”
 
 Ia menarik napas perlahan, seolah menghirup angka-angka yang dipintal dari emas, lalu tersenyum—lapar, namun terlalu beradab untuk disebut serakah.
 
@@ -66,23 +62,19 @@ Suara Darlen belum sepenuhnya mereda ketika Liem bersandar sedikit, matanya meny
 
 Ada jeda singkat.
 
-Lalu jawaban Darlen datang—halus, terkendali, tanpa tergesa.  
-“Tentu. Semua parameter telah terpenuhi. Data yang kembali… menjanjikan.”
+Lalu jawaban Darlen datang—halus, terkendali, tanpa tergesa. “Tentu. Semua parameter telah terpenuhi. Data yang kembali… menjanjikan.”
 
 Liem menatapnya lekat. “Dan keselamatan?”
 
-Darlen menyatukan kedua tangan di belakang punggung, melangkah setengah lingkaran kecil ke tepi ruangan.  
-“Arsitektur Dreem dibangun berlapis-lapis pengaman. Sinkronisasi fisiologis, jangkar memori, durasi terkalibrasi—semuanya diperhitungkan. Simulasi kami lolos dengan hasil sempurna, begitu pula sesi klinis.”
+Darlen menyatukan kedua tangan di belakang punggung, melangkah setengah lingkaran kecil ke tepi ruangan. “Arsitektur Dreem dibangun berlapis-lapis pengaman. Sinkronisasi fisiologis, jangkar memori, durasi terkalibrasi—semuanya diperhitungkan. Simulasi kami lolos dengan hasil sempurna, begitu pula sesi klinis.”
 
-Ia berbalik, menatap Liem dengan kehangatan yang terlatih.  
-“Kau tak perlu khawatir, Liem. Kami tak melangkah maju kecuali benar-benar aman.”
+Ia berbalik, menatap Liem dengan kehangatan yang terlatih. “Kau tak perlu khawatir, Liem. Kami tak melangkah maju kecuali benar-benar aman.”
 
 Ada keyakinan dalam suaranya—berbentuk sempurna seperti kebenaran. Namun di balik kilap itu, tersembunyi jauh di balik ambisi yang berkilau di matanya, terbaring keheningan akan sesuatu yang tak terucap.
 
 Sesuatu yang sebaiknya tetap tak terdokumentasi.
 
-Liem menyilangkan kaki, mengangkat pandangan dengan senyum setengah yang tahu.  
-“Kau bermain dengan mimpi, Darlen. Itu hal yang langka—kebanyakan orang bahkan tak mampu memahaminya, apalagi membentuknya. Tapi kau… kau tahu cara memanipulasinya, bahkan mengubahnya menjadi emas.”
+Liem menyilangkan kaki, mengangkat pandangan dengan senyum setengah yang tahu. “Kau bermain dengan mimpi, Darlen. Itu hal yang langka—kebanyakan orang bahkan tak mampu memahaminya, apalagi membentuknya. Tapi kau… kau tahu cara memanipulasinya, bahkan mengubahnya menjadi emas.”
 
 Darlen menjawab hanya dengan senyum terlatih itu—dingin, bercahaya, bak mercusuar di tengah kabut.
 
@@ -94,15 +86,12 @@ Darlen tak berkata apa-apa. Ia hanya memandang Liem, tatapannya sedikit menyempi
 
 Liem kembali menatap antarmuka Dreem. Dan pada saat itu, perangkat itu tampak bukan lagi sebagai teknologi, melainkan relik purba—terukir oleh kerinduan, dibingkai keputusasaan.
 
-“Jika yang kau katakan benar—jika Dreem benar-benar bisa mengembalikan mimpi pada mereka yang bahkan tak mampu tidur…”
+“Jika yang kau katakan benar—jika Dreem benar-benar bisa mengembalikan mimpi pada mereka yang bahkan tak mampu tidur…” Ia menoleh kembali pada Darlen, matanya tajam oleh keyakinan. “Maka aku tak hanya akan berinvestasi. Aku akan membawa yang lain. Rekan-rekan. Pria-pria dengan anak-anak. Istri. Orang-orang tercinta. Semua orang ingin beristirahat dengan tenang. Semua orang—ingin bermimpi.”
 
-Ia menoleh kembali pada Darlen, matanya tajam oleh keyakinan.   
-“Maka aku tak hanya akan berinvestasi. Aku akan membawa yang lain. Rekan-rekan. Pria-pria dengan anak-anak. Istri. Orang-orang tercinta. Semua orang ingin beristirahat dengan tenang. Semua orang—ingin bermimpi.”
-
-Darlen mengangguk perlahan.  
-“Kami akan memastikan mereka bisa.”
+Darlen mengangguk perlahan. “Kami akan memastikan mereka bisa.”
 
 Dan dengan itu, janji itu menggantung di udara seperti parfum—sunyi, kuat, tak tergoyahkan. Linda, yang berdiri tak jauh, membiarkan senyum paling tipis terukir di bibirnya. Karena kini ia pun melihat, apa sesungguhnya Dreem telah menjadi.
 
 Bukan sekadar sebuah perangkat.
+
 Melainkan sebuah simbol.
