@@ -126,3 +126,5 @@ _Mimpi tak diciptakan untuk diubah. Mimpi ada untuk dirasakan—dihidupi—bahka
 Pandangan Yoshi merendah, dibayangi kegelisahan. Apa pun sebenarnya “sistem” ini, satu hal ia ketahui dengan pasti:
 
 Ia tidak lahir dari pemahaman—melainkan dari ketakutan.
+
+[![Bab Berikutnya](https://img.shields.io)](https://github.com/Ashyels/NightmareRevolver/edit/main/Vol1/Bab2.md)
