@@ -2,7 +2,7 @@
 ## Simfoni Mekanis 一═デ︻
 
 
-<p align="justify">
+<p align="justify" style="font-family: Arial, Helvetica, sans-serif;">
 &emsp;&emsp;Di tengah simfoni mekanis yang tak pernah benar-benar terdiam, sebuah laboratorium raksasa berdenyut mengikuti irama mesin-mesin, desis alat solder, dan ketukan cepat jemari yang menari di atas panel kendali. Cahaya biru pucat keputihan mengalir dari langit-langit tinggi, menembus kabut partikel logam yang melayang di udara—memberi kesan bukan sebagai tempat bagi manusia, melainkan sebuah rahim dingin, tempat keajaiban teknologi yang belum teruji menanti kelahirannya.
   
 &emsp;&emsp;Puluhan teknisi berseragam putih bersih bergerak dengan presisi nyaris tanpa suara. Masing-masing tenggelam sepenuhnya dalam tugasnya, hingga tampak lebih seperti perpanjangan dari mesin-mesin di sekeliling mereka daripada individu yang berdiri sendiri. Di balik kaca pelindung helm mereka, mata-mata menyipit penuh konsentrasi, merangkai mimpi menjadi inovasi melalui ketelitian berskala mikroskopis.  
