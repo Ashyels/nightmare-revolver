@@ -130,8 +130,8 @@ Pertukaran yang Berdaulat</h2>
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab7.md">Bab 7</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab07.md">Bab 7</a>
   <a style="text-decoration:none;">Bab 8</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab9.md">Bab 9</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab09.md">Bab 9</a>
 </p>
 
