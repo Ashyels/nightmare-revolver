@@ -149,7 +149,7 @@ Kegelapan Tanpa Akhir</h2>
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab3.md">Bab 3</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab03.md">Bab 3</a>
   <a style="text-decoration:none;">Bab 4</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab5.md">Bab 5</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab05.md">Bab 5</a>
 </p>
