@@ -129,7 +129,7 @@ Taman Persembahan Kecil</h2>
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab6.md">Bab 6</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab06.md">Bab 6</a>
   <a style="text-decoration:none;">Bab 7</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab8.md">Bab 8</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab08.md">Bab 8</a>
 </p>
