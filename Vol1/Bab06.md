@@ -88,7 +88,7 @@ Ratu-Ratu L’Archen</h2>
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab5.md">Bab 5</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab05.md">Bab 5</a>
   <a style="text-decoration:none;">Bab 6</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab7.md">Bab 7</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab07.md">Bab 7</a>
 </p>
