@@ -1,7 +1,7 @@
 
 <p align="right"><b>Bab 9</b></p>
 <h2 align="right">一═デ︻</br>
-Mekarnya Bunga di Padang Sunyi</h2>
+Bunga di Padang Sunyi</h2>
 
 
 &emsp;Langkah kaki yang lembut dan teratur menggema samar di sepanjang koridor sekolah, seolah enggan mengusik dunia yang tengah berputar dalam ketenangannya sendiri. Bunyi sepatu itu segera larut dalam hiruk pagi—bisik-bisik, tawa, serta gumaman gosip para siswa yang masih dipenuhi euforia hasil pemilihan ketua OSIS yang baru. Nama-nama populer berkelip di setiap percakapan, seperti kunang-kunang yang menari di udara.
