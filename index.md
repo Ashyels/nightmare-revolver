@@ -1,7 +1,21 @@
+<!DOCTYPE html>
 <html>
+<head>
+  <title>Internal CSS Example</title>
   <style>
-    h1 {display: none;
+    body {
+      background-color: lightgray;
+    }
+    h1 {
+      color: navy;
+      font-family: Arial, sans-serif;
+      display: none;
+    }
+    p {
+      color: red;
+    }
   </style>
+</head>
   <h2 align="center">Nightmare Revolver</h2>
   <p align="center"><b>Penulis: Ashyels Rosyanna</b><br>
     <i>4th Project: Nightmare Revolver, 2025</i>
