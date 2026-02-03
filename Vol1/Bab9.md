@@ -63,10 +63,7 @@ Bunga di Padang Sunyi</h2>
 
 &emsp;Ia laksana cahaya musim semi—lembut, singkat, dan selalu terasa sedikit di luar jangkauan. Seuntai bunga yang mekar di padang sunyi, tak memerlukan panggung untuk menarik perhatian. Namun kehadirannya saja sudah mampu mengubah udara di sekitarnya.
 Dan karena itu, tak seorang pun benar-benar sepakat menyebutnya sekadar ratu lain dari L’Archen.
-Sebagian besar lebih memilih memanggilnya—
-
-
-&emsp;Dewi L’Archen.
+Sebagian besar lebih memilih memanggilnya—Dewi L’Archen.
 
 
 
