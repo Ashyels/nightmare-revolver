@@ -140,7 +140,7 @@ Sahabat Berkaki Empat</h2>
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md">Bab 2</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab02.md">Bab 2</a>
   <a style="text-decoration:none;">Bab 3</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab4.md">Bab 4</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab04.md">Bab 4</a>
 </p>
