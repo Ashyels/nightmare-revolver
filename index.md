@@ -1,4 +1,7 @@
 <html>
+  <style>
+    h1 {display: none;
+  </style>
   <h2 align="center">Nightmare Revolver</h2>
   <p align="center"><b>Penulis: Ashyels Rosyanna</b><br>
     <i>4th Project: Nightmare Revolver, 2025</i>
