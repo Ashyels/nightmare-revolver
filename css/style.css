@@ -1,5 +1,5 @@
 
-/*@font-face {
+@font-face {
   font-family: Creepster;
   src: url(../fonts/Creepster-Regular.ttf);
 }
@@ -24,8 +24,8 @@
   src: url(../fonts/Diphylleia-Regular.ttf);
 }
 
-*/
 
+/*
 @font-face {
   font-family: Gabriela;
   src: url("/Gabriela.woff2") format("woff2");
@@ -35,6 +35,7 @@
   font-family: Delius;
   src: url("/Delius.woff2") format("woff2");
 }
+*/
 
 @font-face {
   font-family: Peace;
