@@ -36,6 +36,11 @@
   src: url("/Delius.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: Peace;
+  src: url("/Peace.woff2") format("woff2");
+}
+
 html {
   font-size: 112.5%;
 }
@@ -69,7 +74,7 @@ body {
 /*    margin-left: 10%;
     margin-right: 10%
 */
-    font-family: Delius;
+    font-family: Peace;
     line-height: 1.7;
     max-width: 720px;
     margin: auto;
@@ -117,7 +122,7 @@ h1 {
 }
 
 h2 {
-  font-family: Gabriela;
+/*  font-family: Gabriela;*/
 }
 
 div.pagebreak {
