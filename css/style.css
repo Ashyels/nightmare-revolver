@@ -14,6 +14,8 @@
   src: url(../fonts/Gabriela-Regular.ttf);
 }
 
+@import url('../fonts/Gabriela.css');
+
 @font-face {
   font-family: Merriweather;
   src: url(../fonts/Merriweather-Regular.ttf);
