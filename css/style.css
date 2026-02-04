@@ -1,5 +1,5 @@
 
-@font-face {
+/*@font-face {
   font-family: Creepster;
   src: url(../fonts/Creepster-Regular.ttf);
 }
@@ -15,11 +15,6 @@
 }
 
 @font-face {
-  font-family: Gabriela;
-  src: url(../fonts/Gabriela.woff2) format('woff2');
-}
-
-@font-face {
   font-family: Merriweather;
   src: url(../fonts/Merriweather-Regular.ttf);
 }
@@ -28,6 +23,24 @@
   font-family: Diphylleia;
   src: url(../fonts/Diphylleia-Regular.ttf);
 }
+
+*/
+
+@font-face {
+  font-family: Gabriela;
+  src: url("/Gabriela.woff2") format("woff2");
+}
+
+html {
+  font-size: 112.5%;
+}
+
+@media(max-width:768px) {
+  html {
+    font-size: 120%;
+  }
+}
+
 
 p {
     font-family: Gabriela;
@@ -40,6 +53,7 @@ p {
 }
 
 .novel-text {
+  font-size: 1.05rem;
   padding: 0px 0em 1em 0px;
 }
 
