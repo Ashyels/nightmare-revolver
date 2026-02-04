@@ -43,8 +43,7 @@ html {
 
 
 p {
-    font-family: Gabriela;
-/*    font-size: 90%;*/
+  max-width: 38em;
 }
 
 .chapter-choice {
@@ -66,7 +65,7 @@ body {
     margin-right: 10%
 */
     font-family: Gabriela;
-    line-height: 1.8;
+    line-height: 1.7;
     max-width: 720px;
     margin: auto;
     padding: 1.2rem;
