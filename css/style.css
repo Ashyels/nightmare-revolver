@@ -1,5 +1,5 @@
 
-@font-face {
+/*@font-face {
   font-family: Creepster;
   src: url(../fonts/Creepster-Regular.ttf);
 }
@@ -24,27 +24,26 @@
   src: url(../fonts/Diphylleia-Regular.ttf);
 }
 
+*/
 
-/*
 @font-face {
   font-family: Gabriela;
-  src: url("/Gabriela.woff2") format("woff2");
+  src: url("./Gabriela.woff2") format("woff2");
 }
 
 @font-face {
   font-family: Delius;
-  src: url("/Delius.woff2") format("woff2");
+  src: url("./Delius.woff2") format("woff2");
 }
-*/
 
 @font-face {
   font-family: Peace;
-  src: url("/fonts/peace.woff2"), format("woff2"),
-       url("/fonts/peace.woff"), format("woff"),
-       url("/fonts/peace.ttf"), format("truetype");
-  font-style: normal;
+  src: url("./fonts/peace.woff2"), format("woff2"),
+/*       url("./fonts/peace.woff"), format("woff"),*/
+/*       url("./fonts/peace.ttf"), format("truetype");*/
+/*  font-style: normal;
   font-weight: normal;
-  font-display: swap;
+  font-display: swap;*/
 }
 
 html {
